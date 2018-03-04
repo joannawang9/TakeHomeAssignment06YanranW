@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment06-YanranW</string>
+    <string name="amount">Amount</string>
+    <string name="tax">Tax Percentage</string>
+    <string name="tip">Tip Percentage</string>
+    <string name="submit">Submit</string>
+    <string name="receipt">Your Receipt</string>
+    <string name="calculator">Tip Calculator</string>
+
+
+</resources>
